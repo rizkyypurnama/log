@@ -1,0 +1,222 @@
+.menukiri li{
+    border: none;
+    font-size: 16pt;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: -85px;
+}
+.menukiri li i {
+    width: 35px;
+}
+
+.menukiri li a {
+    text-decoration: none;
+    color: black;
+    padding: 15px 10px;
+}
+
+.menukiri li a:hover{
+    background-color: #f3f3f3;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.logo-mk{
+    margin-left: -60px;
+}
+
+.btnpost:hover{
+    background-color: black;
+}
+.btnpost{
+    margin-left: -55px;
+}
+
+.icons{
+    margin-left: 10px;
+}
+
+.icons i {
+    margin-right: 15px;
+}
+.postingan img{
+    border-radius: 15px;
+}
+
+.timeline{
+    text-decoration: none;
+    color: black;
+}
+
+.timeline:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.timeline-bg:hover{
+    background-color: #f3f3f3;
+}
+
+.trend li{
+    border: none;
+    background-color: #f3f3f3;
+}
+
+.trend li a{
+    text-decoration: none;
+    color: black;
+    padding: 5px 5px;
+}
+
+.trend li:hover{
+    background-color: #bbbbbb;
+    border-radius: 10px;
+}
+
+.icons a{
+    text-decoration: none;
+    color: black;
+}
+
+.icons a:hover{
+    color: black;
+}
+
+.back{
+    text-decoration: none;
+    color: black;
+}
+
+.back:hover{
+    color: black;
+}
+
+.btnsl i:hover{
+    color: black;
+    
+}
+
+.btnicon{
+    background-color: transparent;
+    border: none;
+}
+
+.btncog{
+    color: #afafaf;
+}
+
+.btncog i:hover{
+    color: black;
+}
+
+.like i:hover{
+    color: crimson;
+}
+.komen i:hover{
+    color: cornflowerblue;
+}
+
+.btnprofile{
+    background-color: transparent;
+    border: none;
+    position: absolute;
+    top: 215px;
+}
+
+.btneditprofil{
+    background-color: white;
+    border-radius: 50px;
+    border: black solid 1px;
+    font-weight: 600;
+}
+
+.btneditprofil:hover{
+    background-color: #f3f3f3;
+}
+
+.mediaprofile:hover{
+    background-color: #f3f3f3;
+}
+
+.btneditfotoprofile{
+    background-color: transparent;
+    border: none;
+    position: relative;
+    bottom: 60px;
+}
+
+.backimg{
+    position: relative;
+    bottom: 10px;
+    right: 15px;
+}
+
+.upload-backimg input{
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    width: 485px;
+    height: 150px;
+    opacity: 0;
+}
+
+.upload-fotoprofile input{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    top: 106px;
+    left: 23px;
+    opacity: 0;
+}
+
+.btniconkomen{
+    background-color: cornflowerblue;
+    border: none;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    border-radius: 100%;
+    color: white;
+}
+
+.btniconselengkapnyadikomentar button{
+    opacity: 0.4;
+}
+.btniconselengkapnyadikomentar button:hover{
+    opacity: 1;
+    transition: 0.3s;
+}
+
+.linkkenamalengkap a{
+text-decoration: none;
+color: black;
+}
+
+.linkkenamalengkap a:hover{
+    color: black;
+}
+
+.lipestrim{
+    height: 400px;
+}
+.lipestrim video{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 20px;
+    border: black solid 2px;
+    
+}
+
+.itembanget button{
+    position: absolute;
+    background-color: rgb(243, 243, 243, 0);
+    opacity: 0;
+}
+
+.itembanget button:hover{
+    background-color: rgb(243, 243, 243, 0.5);
+    opacity: 1;
+    transition: 0.3s;
+}
